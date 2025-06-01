@@ -1,0 +1,10 @@
+## Interface: 11505
+## Title: GrimHarvest
+## Notes: Tracks deaths of guild members, friends, and alts
+## Author: Toi
+## Version: 1.0
+## SavedVariables: GrimHarvestStats, GrimHarvestAlts, GrimHarvestSettings
+
+Locales/English.lua
+Locales/French.lua
+GrimHarvest.lua
